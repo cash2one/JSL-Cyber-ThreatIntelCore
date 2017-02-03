@@ -1,0 +1,10 @@
+version: "2"
+
+services:
+  gio_xab:
+    build:
+      context: .
+    environment:
+      - S3_CREDS=KEY,SECRET
+      - CYSPLIT=xab
+      - CYKEY=BATCHKEY
