@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>pyDat: {% block title %}WHOIS exploration{% endblock %}</title>
+    <link rel="stylesheet" type="text/css" href="{{STATIC_URL}}/css/jquery-ui-1.10.4.css">
+    <link rel="stylesheet" type="text/css" href="{{STATIC_URL}}/css/jquery.dataTables.css">
+    <link rel="stylesheet" type="text/css" href="{{STATIC_URL}}/css/pydat.css">
+    {% block css %}
+    {% endblock %}
+    <script type="text/javascript" src="{{STATIC_URL}}/js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="{{STATIC_URL}}/js/jquery-ui-1.10.4.js"></script>
+    <script type="text/javascript" src="{{STATIC_URL}}/js/jquery.dataTables.js"></script>
+    <script type="text/javascript">
+          var resolve_url = "{% url 'ajax_resolve' %}";
+          var csrf_token = '{{ csrf_token }}';
+          var latest_version = '{{ latest_version }}';
+
+
+
+
+    </script>
+    {% block js_constants %}
+    {% endblock %}
+    <script type="text/javascript" src="{{STATIC_URL}}/js/pydat.js"></script>
+    {% block js %}
+    {% endblock %}
+</head>
+<body>
+<div id="bodywrapper">
+    <div id="header">
+        {% include 'navigation_bar.html' %}
+        <div class='clear'>
+        </div>
+    </div><!-- header -->
+
+    <div class='clear'>
+    </div>
+
+    <div id='page'>
+        {% block page %}
+        {% endblock %}
+    </div>
+
+</div> <!-- bodywrapper -->
+</body>
+</html>

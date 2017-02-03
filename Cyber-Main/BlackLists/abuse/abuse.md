@@ -1,0 +1,37 @@
+#abuse
+
+abuse	botscout_1d
+abuse	cleantalk_updated
+abuse	stopforumspam
+abuse	stopforumspam_180d
+abuse	sblam
+abuse	botscout
+abuse	dronebl_irc_drones
+abuse	hphosts_hfs
+abuse	graphiclineweb
+abuse	cleantalk
+abuse	gpf_comics
+abuse	cleantalk_new
+abuse	cleantalk_updated_1d
+abuse	cleantalk_new_30d
+abuse	stopforumspam_365d
+abuse	ipblacklistcloud_top
+abuse	firehol_abusers_30d
+abuse	firehol_abusers_1d
+abuse	blocklist_net_ua
+abuse	stopforumspam_1d
+abuse	cleantalk_updated_30d
+abuse	stopforumspam_30d
+abuse	cleantalk_updated_7d
+abuse	cleantalk_new_7d
+abuse	cleantalk_new_1d
+abuse	iblocklist_forumspam
+abuse	botscout_30d
+abuse	cleantalk_1d
+abuse	myip
+abuse	stopforumspam_7d
+abuse	botscout_7d
+abuse	cleantalk_7d
+abuse	cleantalk_30d
+abuse	stopforumspam_toxic
+abuse	stopforumspam_90d

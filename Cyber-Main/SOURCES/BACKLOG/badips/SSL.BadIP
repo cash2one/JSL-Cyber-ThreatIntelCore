@@ -1,0 +1,7 @@
+https://sslbl.abuse.ch/downloads/ssl_extended.csv
+https://sslbl.abuse.ch/blacklist/sslipblacklist_aggressive.csv
+https://sslbl.abuse.ch/blacklist/sslipblacklist_aggressive.rules
+https://sslbl.abuse.ch/blacklist/dyre_sslipblacklist_aggressive.csv
+https://sslbl.abuse.ch/blacklist/dyre_sslipblacklist_aggressive.rules
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sslbl.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sslproxies.ipset

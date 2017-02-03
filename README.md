@@ -1,1 +1,1 @@
-# JSL-Cyber-ThreatIntelCore
+JSL-Cyber-ThreatIntelCore

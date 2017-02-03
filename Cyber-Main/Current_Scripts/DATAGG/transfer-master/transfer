@@ -1,0 +1,35 @@
+#!/bin/bash
+echo ""
+echo "transfer uploads file or directory to https://transfer.sh"
+echo ""
+echo "Directory will be compressed into an archive and uploaded"
+echo ""
+echo "After successful upload, a download link will be generated"
+echo ""
+echo "Maximum filesize limit is 5 GB"
+echo ""
+echo "File will expire in 14 days"
+echo ""
+echo "Enter full file or directory path: "
+read -e "input_variable"
+if ! [ -e "$input_variable" ]
+then
+echo "$input_variable Does Not Exist!"
+exit 1
+fi
+file="$input_variable"
+basefile=$(basename "$file" | sed -e 's/[^a-zA-Z0-9._-]/-/g')
+tmpfile=$(mktemp -t transferXXX)
+if [ -d "$file" ]; then
+tarfile=$(mktemp -t transferXXX.tar.gz)
+cd "$(dirname "$file")" && tar -czf "$tarfile" "$(basename "$file")"
+curl --progress-bar --upload-file "$tarfile" "https://transfer.sh/$basefile.tar.gz" >> "$tmpfile"
+rm -f "$tarfile"
+else
+curl --progress-bar --upload-file "$file" "https://transfer.sh/$basefile" >> "$tmpfile"
+fi
+echo "Upload successful"
+echo ""
+printf "%s" "Download link -> " && cat "$tmpfile"
+rm -f "$tmpfile"
+exit 0

@@ -1,0 +1,11 @@
+IP_List,DNS_Configuration_Type_Text,Provider_Email,DNS_Server_URL,Provider_Fax,Provider_Telephone,Provider_Website,Provider_Address,Provider_Name
+"217.11.48.13,2a00:1828:2000:478::2",Master,info@manitu.de,ix-dns01.dnsbl.manitu.net,+49 6851 99808-99,+49 6851 99808-0,http://www.manitu.de/,Welvertstraße 266606 St. WendelDeutschland,manitu GmbH
+"193.27.50.10,2a00:e50:f155:a:ae4b:11df:2da6:9c3f",Slave,,ix-dns12.dnsbl.manitu.net,+49-911-319-3196,+49-911-319-0,http://www.datev.de,90329 NürnbergDeutschland,DATEV eG
+193.27.54.10,Slave,,ix-dns13.dnsbl.manitu.net,+49-911-319-3196,+49-911-319-0,http://www.datev.de,90329 NürnbergDeutschland,DATEV eG
+80.237.146.90,Slave,,ix-dns15.dnsbl.manitu.net,+49-8102-8951-80 ,+49-8102-8951-60,http://www.elabnet.de,Lise-Meitner-Str. 185662 HohenbrunnDeutschland,Elaborated Networks GmbH
+80.241.193.150,Slave,,ix-dns17.dnsbl.manitu.net,+49 (0)2365 - 41 46 - 58,+49 (0)2365 - 41 46 - 0,http://www.buelow-masiak.de,Victoriastr. 11945772 MarlDeutschland,Dr. Bülow &amp; Masiak GmbH
+129.143.4.99,Slave,,ix-dns18.dnsbl.manitu.net,,,http://www.belwue.de,,Koordination Landesforschungsnetz BelWü
+62.26.26.22,Slave,,ix-dns19.dnsbl.manitu.net,+49 69 40801 199,+49 69 40801 0,http://www.ecotel.de,Niederlassung FrankfurtHanauer Landstrasse 30060314 Frankfurt / Germany,ecotel communication ag
+129.143.4.115,Slave,,ix-dns21.dnsbl.manitu.net,,,http://www.belwue.de,,Koordination Landesforschungsnetz BelWü
+"194.8.194.53,2001:4dd0:100:1020:53:9:0:3",Slave,info@netcologne.de,ix-dns22.dnsbl.manitu.net,,: +49 221 2222-0,http://www.netcologne.de,Am Coloneum 950829 KölnDeutschland,NetCologne Gesellschaft für Telekommunikation mbH
+195.145.172.2,Slave,,ix-dns23.dnsbl.manitu.net,,,http://www.manitu.de/root-server/,,

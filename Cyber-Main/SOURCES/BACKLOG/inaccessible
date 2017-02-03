@@ -1,0 +1,7 @@
+http://www.mtc.sri.com/live_data/attackers/    #// from attack.threatPort.BadIP
+http://www.openbl.org/lists/base_all.txt      #// from DNS.BadIP
+http://www.openbl.org/lists/base_all_ftp-only.txt   #//from FTP.ThreatPort.BadIP
+http://www.openbl.org/lists/base_all_smtp-only.txt  #//From mail.threatPort.BadIP
+http://www.openbl.org/lists/base_all_http-only.txt  #//From mail.ThreatPort.BadIP
+www.openbl.org/lists/base_all_ssh-only.txt   #//from Ssh.threatPort.BadIP
+http://www.openbl.org/lists/base_all_http-only.txt #//From http.ThreatPort.BadIP

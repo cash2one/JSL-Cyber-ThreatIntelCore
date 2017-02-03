@@ -1,0 +1,115 @@
+'pipelineid,datauploadid,uuid,referential,datasourcename,date,cog,model,concept,segment,pedigree,confidence_score,ipaddress,ipaddress_int,offenderclass,first_observed_date,first_observed_time,most_recent_observation_date,most_recent_observation_time,total_observations,blranking,threat_score,total_capabilities,commvett,commdatevett,govvett,govdatevett,countryabbrv,country,city,coordinates,geo_longitude,geo_latitude,isp,domain,netspeed,network_asn,network_class,network_type,active_boolean,insrtdttm,updtdttm,tcp,udp,icmp,reports,targets,sources,topTen,dateCreated,port,veirfied,name,description,dateModified,categories''] = ''
+
+
+
+
+        entry['pipelineid'] = ''
+        entry['datauploadid'] = ''
+        entry['uuid'] = ''
+        entry['referential'] = ''
+        entry['city'] = data['city'].replace(',', '.')
+        entry['datasourcename'] = 'jsl'
+        entry['date'] = ''
+        entry['cog'] = ''
+        entry['model'] = ''
+        entry['concept'] = ''
+        entry['segment'] = ''
+        entry['pedigree'] = ''
+        entry['confidence_score'] = '7'
+        entry['ipaddress'] = data['query']
+        entry['ipaddress_int'] = ''
+        entry['offenderclass'] = types
+        entry['first_observed_date'] = first.strip().replace(',','.')
+        entry['first_observed_time'] = ''
+        entry['most_recent_observation_date'] = '20160427'
+        entry['most_recent_observation_time'] = '20:14'
+        entry['total_observations'] = '9'
+        entry['blranking'] = ''
+        entry['threat_score'] = ''
+        entry['total_capabilities'] = ''
+        entry['commvett'] = ''
+        entry['commdatevett'] = ''
+        entry['govvett'] = ''
+        entry['govdatevett'] = ''
+        entry['countryabbrv'] = data['countryCode'].replace(',', '.')
+        entry['country'] = data['country'].replace(',', '.')
+        entry['city'] = data['city'].replace(',', '.')
+        entry['coordinates'] = ''
+        entry['geo_longitude'] = data['lon']
+        entry['geo_latitude'] = data['lat']
+        entry['isp'] = data['isp'].replace(',', '.')
+        entry['domain'] = domain.strip().replace(',','.')
+        entry['netspeed'] = ''
+        AS_value = re.findall("AS(\d+)",data['as'])
+        if len(AS_value) > 0:
+          AS_value = AS_value[0]
+        else:
+          AS_value = ''
+
+        entry['network_asn'] = AS_value.replace(',','.')
+        entry['network_class'] = bgp.strip().replace(',','.')
+        entry['network_type'] = ''
+        entry['active_boolean'] = 'true'
+        entry['insrtdttm'] = ''
+        entry['updtdttm'] = ''
+
+
+
+
+
+entry['pipelineid'] = ''
+entry['datauploadid'] = ''
+entry['uuid'] = ''
+entry['referential'] = ''
+entry['datasourcename'] = ''
+entry['date'] = ''
+entry['cog'] = ''
+entry['model'] = ''
+entry['concept'] = ''
+entry['segment'] = ''
+entry['pedigree'] = ''
+entry['confidence_score'] = ''
+entry['ipaddress'] = ''
+entry['ipaddress_int'] = ''
+entry['offenderclass'] = ''
+entry['first_observed_date'] = ''
+entry['first_observed_time'] = ''
+entry['most_recent_observation_date'] = ''
+entry['most_recent_observation_time'] = ''
+entry['total_observations'] = ''
+entry['blranking'] = ''
+entry['threat_score'] = ''
+entry['total_capabilities'] = ''
+entry['commvett'] = ''
+entry['commdatevett'] = ''
+entry['govvett'] = ''
+entry['govdatevett'] = ''
+entry['countryabbrv'] = ''
+entry['country'] = ''
+entry['city'] = ''
+entry['coordinates'] = ''
+entry['geo_longitude'] = ''
+entry['geo_latitude'] = ''
+entry['isp'] = ''
+entry['domain'] = ''
+entry['netspeed'] = ''
+entry['network_asn'] = ''
+entry['network_class'] = ''
+entry['network_type'] = ''
+entry['active_boolean'] = ''
+entry['insrtdttm'] = ''
+entry['updtdttm'] = ''
+entry['tcp'] = ''
+entry['udp'] = ''
+entry['icmp'] = ''
+entry['reports'] = ''
+entry['targets'] = ''
+entry['sources'] = ''
+entry['topTen'] = ''
+entry['dateCreated'] = ''
+entry['port'] = ''
+entry['veirfied'] = ''
+entry['name'] = ''
+entry['description'] = ''
+entry['dateModified'] = ''
+entry['categories'] = ''

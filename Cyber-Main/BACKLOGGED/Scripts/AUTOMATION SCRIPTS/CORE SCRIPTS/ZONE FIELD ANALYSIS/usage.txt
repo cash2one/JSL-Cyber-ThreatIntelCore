@@ -1,0 +1,5 @@
+OS : linux (curl)
+
+Usage :
+            Python zoneField.py ips.txt1 out
+The . CSV is appended automatically

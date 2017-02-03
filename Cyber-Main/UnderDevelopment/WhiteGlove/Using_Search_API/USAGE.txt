@@ -1,0 +1,33 @@
+Tool #1 
+
+Objective: search ANTPJI members on LinkedIn using Google Custom Search API.
+
+Tool #2
+
+Objective: obtain photos of the ANTPJI members LinkedIn profiles using Google Custom Search API.
+
+The following script gets the photos of the members of the association on LinkedIn and also extracts picture metadata .  The script generates an HTML page with all the photos.
+
+Tool #3
+
+Objective: what is the relationship of ANTPJI members on LinkedIn?
+
+With this script we are looking for the relationship between the members of the association at LinkedIn and create a graph that relates the words.
+
+Tool #4
+
+Objective: what’s hot on Twitter account of the association?
+
+This script downloads the latest tweets from the account of the association and generates a tag cloud. Useful to quickly view what are they talking about.
+
+Tool #5
+
+Objective: do the ANTPJI usernames from Twitter exist on social networks sites?
+
+The following script extracts the usernames that have been published or mentioned in the Twitter of the association and checks in 160 social networks sites.
+
+Tool #6
+
+Objective: can we extract metadata from ANTPJI photos?
+
+This script downloads the photos related to ANTPJI from Google and extracts the metadata.

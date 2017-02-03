@@ -1,0 +1,13 @@
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/xroxy.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxylists.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxyspy.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxz.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ri_connect_proxies.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/xroxy.ipset
+#http://txt.proxyspy.net/proxy.txt
+http://list.iblocklist.com/?list=xoebmbyexwuiogmbyprb&fileformat=p2p&archiveformat=gz
+http://multiproxy.org/txt_anon/proxy.txt
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_proxies.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_anonymous.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/maxmind_proxy_fraud.ipset

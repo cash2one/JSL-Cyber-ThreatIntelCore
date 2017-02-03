@@ -1,0 +1,4 @@
+tldextract >= 2.0.1
+requests >= 2.10.0
+urllib3 >= 1.15.1
+beautifulsoup4 >= 4.4.0

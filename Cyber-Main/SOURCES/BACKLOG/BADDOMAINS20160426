@@ -1,0 +1,40 @@
+BadDomains
+
+Revised At:
+Tuesday, April 26th
+        4:53 PM
+
+MALWARE BLACKLIST
+http://secure.mayhemiclabs.com/malhosts/malhosts.txt
+http://isc.sans.edu/feeds/suspicioiusdomains_Low.txt
+http://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
+http://isc.sans.edu/feeds/suspiciousdomains_High.txt
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+https://palevotracker.abuse.ch/blocklists.php?download=domainblocklist
+http://mirror1.malwaredomains.com/files/domains.txt
+https://zeustracker.abuse.ch/blocklist.php?download=compromised
+http://osint.bambenekconsulting.com/feeds/c2-dommasterlist-high.txt
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/malwaredomainlist.ipset
+https://www.dshield.org/feeds/suspiciousdomains_High.txt
+http://www.malwaregroup.com/domains/malicious
+
+
+DNS BLACKLIST
+https://malc0de.com/bl/ZONES
+https://www.dshield.org/feeds/suspiciousdomains_Low.txt
+https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
+https://www.dshield.org/feeds/suspiciousdomains_High.txt
+http://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+http://ransomwaretracker.abuse.ch/downloads/RW_URLBL.txt
+http://www.nothink.org/blacklist/blacklist_malware_dns.txt
+
+
+SPAM BLACKLIST
+http://www.joewein.de/sw/blacklist.htm#bl
+
+SSL BLACKLIST
+n/a
+
+PHISHING BL
+https://openphish.com/feed.txt
+http://data.phishtank.com/data/online-valid.csv

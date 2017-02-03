@@ -1,0 +1,6 @@
+http://wget-mirrors.uceprotect.net/rbldnsd-all/dnsbl-1.uceprotect.net.gz
+http://wget-mirrors.uceprotect.net/rbldnsd-all/dnsbl-2.uceprotect.net.gz
+http://wget-mirrors.uceprotect.net/rbldnsd-all/dnsbl-3.uceprotect.net.gz
+http://www.openbl.org/lists/base_all.txt
+https://rules.emergingthreats.net/open/suricata/rules/emerging-dns.rules
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/openbl_1d.ipset

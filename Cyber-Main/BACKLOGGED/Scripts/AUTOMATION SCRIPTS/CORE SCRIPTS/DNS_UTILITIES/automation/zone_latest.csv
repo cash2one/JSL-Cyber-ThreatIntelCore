@@ -1,0 +1,167 @@
+asn_number,SOA,txt,Server_name,mx,AAAA,CNAME,A,country_code,Ns,ip_address,ptr
+AS4847 China Networks Inter-Exchange,,,,,,,,CN,,58.128.228.168,
+AS5588 T-Mobile Czech Republic a.s.,,,172.31.0.2,,,,85.9.27.1,RO,,85.9.27.130,s13
+AS5602 KPNQwest Italia S.p.a,,,172.31.0.2,,,,5.150.143.2,IT,,5.150.143.208,board1
+AS6724 STRATO AG,,,172.31.0.2,10 mx.54492085.de.strato-hosting.eu.,2a01:238:4380:.169.251.136,webagentur-schwab.com.
+AS6830 Liberty Global Operations B.V.,,,172.31.0.2,,,,85.158.232.3,CH,,85.158.232
+AS5588 T-Mobile Czech Republic a.s.,,,172.31.0.2,,,,85.9.27.1,RO,,85.9.27.130,s13
+AS8447 A1 Telekom Austria AG,,,,,,,,AT,,195.3.124.25,
+AS8972 PlusServer AG,,,172.31.0.2,,,,62.75.229.1,DE,ns5.nameserverservice.de_host
+AS9009 M247 Ltd,,,,,,,,RO,,89.40.181.34,
+AS9009 M247 Ltd,,,,,,,,RO,,89.40.181.60,
+AS12371 avency GmbH,,,172.31.0.2,,,,195.60.109.1,DE,,195.60.109.14,mail.cc-isobus
+AS12637 Seeweb s.r.l.,,v=spf1 a -all,172.31.0.2,,,,217.194.6.3,IT,,217.194.6.34,v
+AS12850 Enter S.r.l.,,,172.31.0.2,,,,80.247.79.1,IT,,80.247.79.174,mail.360at.net
+AS12874 Fastweb SpA,,,172.31.0.2,,,,2.228.70.1,IT,,2.228.70.140,2-228-70-140.ip19
+AS12876 ONLINE S.A.S.,,,172.31.0.2,,,,195.154.216.1,FR,,195.154.216.188,195-154-2
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.18.36.109,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.18.36.254,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.18.39.66,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.18.43.186,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.18.47.34,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.18.50.9,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.18.61.128,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.24.102.134,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.24.105.89,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.24.108.203,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.24.109.99,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.24.121.250,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.24.125.217,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.24.126.234,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.24.99.214,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.24.99.67,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.132.168,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.140.148,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.147.65,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.153.18,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.157.88,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.163.81,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.173.102,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.173.107,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.173.183,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.177.169,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.179.242,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.179.75,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.180.17,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.184.3,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.185.2,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.27.191.177,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.28.16.244,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.28.22.11,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.28.22.189,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.28.23.46,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.28.26.81,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.28.31.78,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.31.68.198,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.31.71.230,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.31.72.131,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.31.80.109,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.31.94.228,
+"AS13335 CloudFlare, Inc.",,,,,,,,US,,104.31.95.20,
+AS14265 Telepacific Communications,,v=spf1 a mx include:websitewelcome.com ~all,1gator.com._ns8200.hostgator.com.,66.36.163.207,gasco.com.sa.
+AS15967 nazwa.pl S.A.,,,172.31.0.2,,,,77.55.57.1,PL,,77.55.57.113,acf113.rev.neta
+AS15967 nazwa.pl S.A.,,,172.31.0.2,,,,85.128.248.5,PL,,85.128.248.56,aon56.rev.ne
+AS16276 OVH SAS,,,172.31.0.2,,,,151.80.199.1,FR,,151.80.199.163,electra-web02.pro
+AS16276 OVH SAS,,,,,,,,FR,,151.80.217.26,
+AS16276 OVH SAS,,,172.31.0.2,,,,167.114.208.2,CA,,167.114.208.229,server.gennetwo
+AS16276 OVH SAS,,,,,,,,FR,,178.33.66.246,
+AS16276 OVH SAS,,,172.31.0.2,,,,213.186.33.8,FR,,213.186.33.84,basic-cdn-01.clust
+AS16276 OVH SAS,,,172.31.0.2,,,,37.59.188.2,IT,,37.59.188.226,centos.ovh.bedin.co
+AS16276 OVH SAS,,,,,,,,FR,,51.254.51.178,
+AS16276 OVH SAS,,1|www.dicoz.frv=spf1 include:mx.ovh.com ~allgoogle-site-verificanet._5 mx2.ovh.net.,,,5.135.30.1,FR,dns110.ovh.net._ns110.ovh.net.,5.135.30.172,d
+"AS16509 Amazon.com, Inc.",,,172.31.0.2,,,,52.10.128.1,US,,52.10.128.168,ec2-52-1
+"AS16509 Amazon.com, Inc.",,,172.31.0.2,,,,52.10.128.1,US,,52.10.128.168,ec2-52-1
+"AS16509 Amazon.com, Inc.",,,172.31.0.2,,,,52.10.128.1,US,,52.10.128.168,ec2-52-1
+"AS16509 Amazon.com, Inc.",,,172.31.0.2,,,,52.10.128.1,US,,52.10.128.168,ec2-52-1
+"AS16509 Amazon.com, Inc.",,,172.31.0.2,,,,52.10.128.1,US,,52.10.128.168,ec2-52-1
+"AS16509 Amazon.com, Inc.",,,172.31.0.2,,,,52.10.128.1,US,,52.10.128.168,ec2-52-1
+"AS16509 Amazon.com, Inc.",,,172.31.0.2,,,,52.10.128.1,US,,52.10.128.168,ec2-52-1
+"AS16509 Amazon.com, Inc.",,,172.31.0.2,,,,52.10.128.1,US,,52.10.128.168,ec2-52-1
+"AS16509 Amazon.com, Inc.",,,172.31.0.2,,,,52.10.128.1,US,,52.10.128.168,ec2-52-1
+"AS18866 atjeu publishing, llc",,,,,,,,US,,69.50.210.69,
+AS20013 CyrusOne LLC,,,,,,,,US,,192.185.52.247,
+AS20738 Webfusion Internet Solutions,,,172.31.0.2,,,,217.199.187.1,GB,hostmaster.
+AS20773 Host Europe GmbH,,,172.31.0.2,,2a01:488:42:1000:57e6:2b8d::,,87.230.43.1,
+AS20773 Host Europe GmbH,,,172.31.0.2,,2a01:488:66:1000:5c33:8396:0:1,,92.51.131.
+AS20940 Akamai International B.V.,,,172.31.0.2,,,,184.50.238.1,US,,184.50.238.184
+AS21219 PRIVATE JOINT STOCK COMPANY DATAGROUP,,v=spf1 redirect=_spf.yandex.ru,172m._nsa4.srv53.org._nsc2.srv53.net._nsd4.srv53.com._nsc2.srv53.com._nsb1.srv53.orgrin.com.
+AS23352 Server Central Network,,v=spf1 +a +mx +ip4:66.225.220.207 ~all,172.31.0.2US,dns2.tanzaniawebhosting.com._dns.tanzaniawebhosting.com.,64.202.115.199,twiga-
+AS24940 Hetzner Online GmbH,,,172.31.0.2,,,,14.198.9.1_176.9.198.1,DE,,176.9.198.
+AS24955 OJSC Ufanet,,,172.31.0.2,,,,95.105.27.1_95.105.27.1,RU,,95.105.27.11,95.1
+AS25074 PlusServer AG,,,172.31.0.2,10 webbox442.server-home.org.,,,83.220.144.2,D
+"AS26347 New Dream Network, LLC",,,172.31.0.2,,,,69.163.200.1,US,,69.163.200.161,
+"AS26496 GoDaddy.com, LLC",,,172.31.0.2,,,,160.153.16.2,US,,160.153.16.29,ip-160-
+"AS26496 GoDaddy.com, LLC",,,172.31.0.2,,,,160.153.54.6,US,,160.153.54.66,ip-160-
+"AS26496 GoDaddy.com, LLC",,,172.31.0.2,,,,203.124.103.1,SG,,203.124.103.1,sg2nlh
+"AS26496 GoDaddy.com, LLC",,,172.31.0.2,,,,50.62.112.1,US,,50.62.112.1,p3nlhg644c
+"AS26496 GoDaddy.com, LLC",,,172.31.0.2,,,,50.62.235.1,US,,50.62.235.1,p3nlhg498c
+"AS26496 GoDaddy.com, LLC",,,172.31.0.2,,,,50.63.56.4,US,,50.63.56.47,ip-50-63-56
+AS29182 JSC ISPsystem,,v=spf1 mx a ptr a:mail.set-in-box.ru ip4:127.0.0.1 ~all,17._ns2.firstvds.ru.,82.146.36.115,set-in-box.ru.
+AS29302 Hosting Services Inc,,,172.31.0.2,,,,,AU,,146.185.29.100,.grakka.net.
+AS31034 Aruba S.p.A.,,,172.31.0.2,,,,95.110.174.1,IT,,95.110.174.125,kscrb.kosmos
+AS31122 Digiweb Ltd.,,,172.31.0.2,,,,92.51.242.1,IE,,92.51.242.105,server.reminde
+"AS32244 Liquid Web, Inc.",,,172.31.0.2,,,,72.52.170.1,US,,72.52.170.149,host.bet
+AS32613 iWeb Technologies Inc.,,,172.31.0.2,,,,72.55.186.8,CA,,72.55.186.8,s005.p
+AS32613 iWeb Technologies Inc.,,,172.31.0.2,,,,72.55.186.8,CA,,72.55.186.8,s005.p
+AS34011 domainfactory GmbH,,,172.31.0.2,100 twister.ispgateway.de.,,,80.67.28.1,D
+AS34225 SpeedPartner GmbH,,,172.31.0.2,,,,91.184.35.1,DE,,91.184.35.130,merkur.in
+AS34235 ASPSERVEUR,,digital-network.net.v=spf1 a mx ip4:195.242.191.65 ip4:83.1433.16.17 83.143.16.2  mx:vhaeraun.digital-network.net -all,172.31.0.2,digital-netwtal-network.net.,83.143.16.2,FR,baine.digital-network.net._mystra.digital-network
+AS34788 Neue Medien Muennich GmbH,,,172.31.0.2,,,,85.13.147.2,DE,,85.13.147.213,d
+AS34934 UKfastnet Ltd,,,172.31.0.2,,,,159.253.209.6_159.253.209.6,AU,,159.253.209
+AS35415 Webzilla B.V.,,v=spf1 ip4:46.30.45.39 a mx ~all,172.31.0.2,10 mail.csgo-tte.ru.,46.30.45.39,csgo-things.ru.
+AS35415 Webzilla B.V.,,v=spf1 ip4:46.30.45.39 a mx ~all,172.31.0.2,10 mail.csgo-tte.ru.,46.30.45.39,csgo-things.ru.
+AS35425 Bytemark Limited,,,172.31.0.2,,2001:41c8:51:43d:feff:ff:fe00:3243,,213.13
+AS36351 SoftLayer Technologies Inc.,,,172.31.0.2,,,,,US,,198.105.221.5,mail5.bull
+AS36351 SoftLayer Technologies Inc.,,,172.31.0.2,,,,,US,,198.105.221.5,mail5.bull
+AS36351 SoftLayer Technologies Inc.,,,172.31.0.2,,,,,US,,198.105.221.5,mail5.bull
+AS36351 SoftLayer Technologies Inc.,,,172.31.0.2,,,,,US,,198.105.221.5,mail5.bull
+AS36351 SoftLayer Technologies Inc.,,,172.31.0.2,,,,,US,,198.105.221.5,mail5.bull
+AS36351 SoftLayer Technologies Inc.,,,172.31.0.2,,,,,US,,198.105.221.5,mail5.bull
+AS39392 SuperNetwork s.r.o.,,,172.31.0.2,,,,95.168.204.2,NL,,95.168.204.225,masak
+AS41435 UnderNet LLC,,,172.31.0.2,,,,,UA,,176.104.18.152,s-176-104-18-152.under.n
+AS41528 Binero AB,,,172.31.0.2,,,,,SE,,195.74.38.129,cl-25.atm.binero.net.
+AS41528 Binero AB,,,172.31.0.2,,,,,SE,,195.74.38.129,cl-25.atm.binero.net.
+AS43350 NFOrce Entertainment BV,,,172.31.0.2,,,,85.159.237.1,NL,,85.159.237.150,1
+AS45538 Online data services,,,172.31.0.2,,,,112.78.2.1,VN,,112.78.2.101,mb2d101.
+AS46015 Exa Bytes Network Sdn.Bhd.,,,172.31.0.2,,,,103.6.196.1,MY,,103.6.196.156,
+AS46606 Unified Layer,,,172.31.0.2,,,,173.254.37.1,US,,173.254.37.144,173-254-37-
+AS46606 Unified Layer,,,172.31.0.2,,,,173.254.37.1,US,,173.254.37.144,173-254-37-
+AS46606 Unified Layer,,,,,,,,US,,192.232.249.212,
+AS46606 Unified Layer,,,,,,,,US,,192.254.233.1,
+AS46606 Unified Layer,,,172.31.0.2,0 glulife.glulife.com.,,,198.154.254.2,US,ns2.
+AS46606 Unified Layer,,,172.31.0.2,,,,50.87.13.5,US,,50.87.13.55,50-87-13-55.unif
+AS47242 COLT Engine S.r.l.,,,172.31.0.2,,,,81.31.147.6,IT,,81.31.147.60,jmhlmd14.
+AS48896 dhosting.pl Sp. z o.o.,,,172.31.0.2,,,,109.95.152.1,PL,,109.95.152.187,v1
+AS49335 Mir Telematiki Ltd.,,,,,,,,RU,,86.105.227.125,
+AS52043 LLC Multiservice,,,,,,,,RU,,176.106.31.227,
+AS52335 Colombia Hosting,,,172.31.0.2,,,,190.8.176.2,CO,,190.8.176.235,bartolome.
+AS52335 Colombia Hosting,,,172.31.0.2,,,,190.8.176.2,CO,,190.8.176.235,bartolome.
+AS56067 453 Ladplacout Jorakhaebua,,,172.31.0.2,,,,119.59.120.2,TH,,119.59.120.21
+AS56617 SIA VPS Hosting,,,172.31.0.2,,,,,LV,,91.226.33.54,d6828.core-vps.lv.
+AS56617 SIA VPS Hosting,,,172.31.0.2,,,,,LV,,91.226.33.54,d6828.core-vps.lv.
+AS59729 ITL Company,,,,,,,,UA,,176.103.62.14,
+AS60087 SUPERNOVA S.R.L.,,,172.31.0.2,,,,171.150.252.4,IT,,46.252.150.171,171.150
+AS60117 Host Sailor Ltd.,,,,,,,,NL,,131.72.139.109,
+AS60117 Host Sailor Ltd.,,,172.31.0.2,,,,127.122.106.1,RO,,185.106.122.52,52.0-12
+AS62214 Rackforest Informatikai Kereskedelmi Szolgaltato es Tanacsado Kft.,,v=spfx.integrity.hu._10 a.mx.integrity.hu._10 b.mx.integrity.hu.,,,185.43.205.9,HU,dns
+AS62838 Reprise Hosting,,,172.31.0.2,,,,,US,,104.37.168.4,venus.theserverupdated.
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+"AS197695 Domain names registrar REG.RU, Ltd",,,172.31.0.2,,,,37.140.192.2,RU,,37
+AS198610 Beget Ltd,,v=spf1 redirect=beget.ru,172.31.0.2,,,,5.101.152.8,RU,,5.101.
+AS198610 Beget Ltd,,v=spf1 redirect=beget.ru,172.31.0.2,,,,5.101.152.8,RU,,5.101.
+r
